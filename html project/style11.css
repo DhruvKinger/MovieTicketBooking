@@ -1,0 +1,42 @@
+body{
+	color: white;
+background-image: url("123.jpg");background-repeat: no-repeat;
+background-size: cover;
+}
+.sayanto{background-image: url("12345.jpg");}
+ul
+{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+ul li
+{
+	float: left;
+	padding: 10px;
+	width: 350px;
+	height: 24px;
+	background-color: none;
+	opacity: 0.8;
+	line-height: 40px;
+	text-align: center;
+	font-size: medium;
+}
+ul li a
+{
+	text-decoration: none;
+	color: white;
+	display: block;
+    height: 47px;
+    width: 2px;
+}
+ul li a:hover
+{
+	background-color: black;
+}
+ul li ul li {
+	display: none;
+}
+ul li:hover ul li{
+	display: block;
+}
