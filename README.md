@@ -5,8 +5,8 @@ Under this  project I have maintained an Online Portal where user can come and g
 #### Website's Home Page:
 ![](https://github.com/DhruvKinger/MovieTicketBooking/blob/master/Forgithub/Screenshot%20(96).png)
 ### Advanced Features Implemented :
-#### Location Tracker:
-![](https://github.com/DhruvKinger/OnlineQuiz/blob/master/Forgithub/Screenshot%20(114).png)
+#### Users Counter:
+![](https://github.com/DhruvKinger/MovieTicketBooking/blob/master/Forgithub/Screenshot%20(98).png)
 
 + [Development](#development)
 + [Contribute](#contribute)
