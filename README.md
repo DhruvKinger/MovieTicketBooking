@@ -5,7 +5,9 @@ Under this  project I have maintained an Online Portal where user can come and g
 #### Website's Home Page:
 ![](https://github.com/DhruvKinger/MovieTicketBooking/blob/master/Forgithub/Screenshot%20(96).png)
 ### Advanced Features Implemented :
-#### Users Counter:
+#### Alert after Ticket  Booked:
+![](https://github.com/DhruvKinger/MovieTicketBooking/blob/master/Forgithub/Screenshot%20(104).png)
+#### Application User Counter:
 ![](https://github.com/DhruvKinger/MovieTicketBooking/blob/master/Forgithub/Screenshot%20(98).png)
 
 + [Development](#development)
