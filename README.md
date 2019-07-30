@@ -3,7 +3,7 @@
 Under this  project I have maintained an Online Portal where user can come and give Quiz on different technologies.He can choose his topic say like Current Affairs,Dotnet,Machine Learning and so on.He will be having a fix time to do so.Once time is over his session Expires and score is displayed.If Next time User comes he can check the his previous test records.Admin adds differnt technologies and related Questions with their answers.
 
 #### Website's Home Page:
-![](https://github.com/DhruvKinger/OnlineQuiz/blob/master/Forgithub/Screenshot%20(113).png)
+![](https://github.com/DhruvKinger/MovieTicketBooking/blob/master/Forgithub/Screenshot%20(96).png)
 ### Advanced Features Implemented :
 #### Location Tracker:
 ![](https://github.com/DhruvKinger/OnlineQuiz/blob/master/Forgithub/Screenshot%20(114).png)
