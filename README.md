@@ -108,7 +108,10 @@ If you receive a User Account Control notice, choose Yes.
 ![](https://github.com/DhruvKinger/MovieTicketBooking/blob/master/Forgithub/Screenshot%20(99).png)
 #### Movies :
 ![](https://github.com/DhruvKinger/MovieTicketBooking/blob/master/Forgithub/Screenshot%20(100).png)
-
+#### Show Timings :
+![](https://github.com/DhruvKinger/MovieTicketBooking/blob/master/Forgithub/Screenshot%20(102).png)
+#### Booking Seats :
+![](https://github.com/DhruvKinger/MovieTicketBooking/blob/master/Forgithub/Screenshot%20(103).png)
 
 
 ## Furture Scope:
