@@ -1,6 +1,6 @@
 
 # EXCITED ATMOSPHERE
-Under this  project I have maintained an Online Portal where user can come and give Quiz on different technologies.He can choose his topic say like Current Affairs,Dotnet,Machine Learning and so on.He will be having a fix time to do so.Once time is over his session Expires and score is displayed.If Next time User comes he can check the his previous test records.Admin adds differnt technologies and related Questions with their answers.
+This is an Online Movie Ticket Booking System where user can come and see different Movie Shows in nearby PVR's.He can see ratings and reviews of movies and choose which he want to see.He then can book his ticket in Cinema he chooses.
 
 #### Website's Home Page:
 ![](https://github.com/DhruvKinger/MovieTicketBooking/blob/master/Forgithub/Screenshot%20(96).png)
