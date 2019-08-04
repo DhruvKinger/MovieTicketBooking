@@ -102,7 +102,9 @@ If you receive a User Account Control notice, choose Yes.
 
 #### Offers :
 ![](https://github.com/DhruvKinger/MovieTicketBooking/blob/master/Forgithub/Screenshot%20(99).png)
-#### Movies :
+#### Bollywood Movies :
+![](https://github.com/DhruvKinger/MovieTicketBooking/blob/master/Forgithub/Screenshot%20(653).png)
+#### Hollywood Movies :
 ![](https://github.com/DhruvKinger/MovieTicketBooking/blob/master/Forgithub/Screenshot%20(100).png)
 #### Show Timings :
 ![](https://github.com/DhruvKinger/MovieTicketBooking/blob/master/Forgithub/Screenshot%20(102).png)
