@@ -94,9 +94,9 @@ If you receive a User Account Control notice, choose Yes.
 + Admin is more of the supreme or you can say a Senior Vice President Person who commands and monitors the progress.
 + All different offers for the users are added by Admin too.
 + Users can book a ticket here.
-+ Once a User start giving the Quiz ,it's timer also start and Once time is over his session Expires and score is displayed.
-+ If Next time User comes he can check the his previous test records. 
-+ User can contact Admin too that in order to add a technolgy which they think should be there.
++ Payment Gateway can be choosen by user depending upon his choice.
++ If Next time User comes he can check the his previous booked shows. 
++ User can contact Admin too that in order if he needs some support.
 
 ## Screenshots
 
