@@ -90,7 +90,7 @@ If you receive a User Account Control notice, choose Yes.
     Next, status screens appear that show the progress of your Visual Studio installation.
 
 ## Features
-+ Admin can add all the Technologies for the Users.
++ Admin can add all the upcoming Movies.
 + Admin is more of the supreme or you can say a Senior Vice President Person who commands and monitors the progress.
 + All Questions and their answers are added by Admin too.
 + Users give their Quiz after choosing a Specific Technology.
