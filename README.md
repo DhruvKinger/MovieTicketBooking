@@ -115,6 +115,6 @@ If you receive a User Account Control notice, choose Yes.
 ## Furture Scope:
 * Cross Platform Apps for the Project, so that the Excited Atmosphere is easily accessible to user easily anywhere and they can book ticket of upcoming movie as per their choice.
 * We can integrate with maximum cinemas to provide user benifit in many cinemas and also in order to grow up the buisness.
-* The system could also be enhanced by adding the Machine Learning to the Project for future use.
+* The system could also be enhanced by adding cashbacks to the users which will engage more users on site.
 * Further on Microsoft Azure Cognitive Services can be added to the project too.
 
