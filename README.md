@@ -1,6 +1,6 @@
 
 # EXCITED ATMOSPHERE
-This is an Online Movie Ticket Booking System where user can come and see different Movie Shows in nearby PVR's.He can see ratings and reviews of movies and choose which he want to see.He then can book his ticket in the Cinema which he has choosen.He checks no of seats available on the respective day.At the time of Payment he can choose number of seats and Offer Type.He then can pay euther through Debit Card,Paytm and other Integrations too.
+This is an Online Movie Ticket Booking System where users can come and see different Movie Shows in nearby PVR's.He can see ratings and reviews of movies and choose which he want to see.He then can book his ticket in the Cinema which he has choosen.He checks no of seats available on the respective day.At the time of Payment he can choose number of seats and Offer Type.He then can pay euther through Debit Card,Paytm and other Integrations too.
 
 #### Website's Home Page:
 ![](https://github.com/DhruvKinger/MovieTicketBooking/blob/master/Forgithub/Screenshot%20(96).png)
